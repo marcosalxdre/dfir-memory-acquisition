@@ -1,6 +1,6 @@
 ## O que é aquisição de memória?
 
-Fundamentalmente, a aquisição de memória é o processo de copiar o conteúdo da memória física para outro dispositivo de armazenamento, com o objetivo de preservá-lo (Ligh et al., 2014).
+"Fundamentalmente, a aquisição de memória é o processo de copiar o conteúdo da memória física para outro dispositivo de armazenamento, com o objetivo de preservá-lo" (Ligh et al., 2014, tradução minha).
 
 Em uma investigação forense digital, o investigador busca preservar o estado do ambiente digital analisado, tomando decisões importantes sobre quais dados devem ser coletados e sobre a melhor forma de realizar essa coleta, de maneira que a evidência não seja corrompida, sua integridade e validade sejam preservadas e a análise posterior permita chegar a conclusões confiáveis.
 
