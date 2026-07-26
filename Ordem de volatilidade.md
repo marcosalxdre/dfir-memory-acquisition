@@ -43,7 +43,7 @@ Organizações devem possuir planos, diretrizes e procedimentos estabelecidos, d
 A imagem a seguir representa a dinâmica descrita anteriormente:
 
 <p align="center">
-  <img src="imagens/fluxo-logico-oov.jpeg" width="700">
+  <img src="imagens/fluxo-logico-oov.jpeg" width="600">
 </p>
 
 Com base nesse entendimento, a condução do processo de aquisição deve buscar:
