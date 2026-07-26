@@ -43,7 +43,7 @@ Organizações devem possuir planos, diretrizes e procedimentos estabelecidos, d
 A imagem a seguir representa a dinâmica descrita anteriormente:
 
 <p align="center">
-  <img src="imagens/fluxo-logico-oov.jpeg">
+  <img src="imagens/fluxo-logico-oov.jpeg" width="700">
 </p>
 
 Com base nesse entendimento, a condução do processo de aquisição deve buscar:
@@ -53,6 +53,4 @@ Com base nesse entendimento, a condução do processo de aquisição deve buscar
 - Documentar os procedimentos adotados e as alterações inevitáveis introduzidas pela aquisição;
 - Interpretar os resultados considerando que parte das alterações observadas pode decorrer da atividade normal do sistema ou do próprio processo de aquisição.
 
-A ordem de volatilidade permanece um princípio fundamental da aquisição forense. Entretanto, a evolução dos ambientes computacionais ampliou significativamente a quantidade e a diversidade das fontes de evidência disponíveis.
-
-Embora a fundamentação conceitual seja relativamente antiga e baseada na necessidade de priorizar as evidências conforme sua probabilidade de alteração ou perda, sua execução operacional evoluiu significativamente para atender às características dos ambientes computacionais modernos, como aqueles baseados em virtualização, computação em nuvem e sistemas distribuídos.
+A ordem de volatilidade permanece um princípio fundamental da aquisição forense. Entretanto, a evolução dos ambientes computacionais ampliou significativamente a quantidade e a diversidade das fontes de evidência disponíveis. Embora a fundamentação conceitual seja relativamente antiga e baseada na necessidade de priorizar as evidências conforme sua probabilidade de alteração ou perda, sua execução operacional evoluiu significativamente para atender às características dos ambientes computacionais modernos, como aqueles baseados em virtualização, computação em nuvem e sistemas distribuídos.
