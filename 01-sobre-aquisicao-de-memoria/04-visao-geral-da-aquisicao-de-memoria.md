@@ -176,6 +176,8 @@ Após isso, o investigador deve executar a aquisição propriamente dita, seja l
 
 > “Verificar a integridade dos dados. Após a aquisição dos dados, sua integridade deve ser verificada. É particularmente importante que o analista consiga demonstrar que os dados não foram adulterados caso eles possam ser necessários para fins legais. A verificação da integridade dos dados normalmente consiste na utilização de ferramentas para calcular o resumo criptográfico (message digest) dos dados originais e dos dados copiados, comparando posteriormente os valores obtidos para garantir que sejam iguais.” (NIST, Special Publication 800-86, seção 3 — Performing the Forensic Process, subseção 3.1 — Data Collection, subseção 3.1.2 — Acquiring the Data, tópico 3 — Verify the Integrity of the Data, tradução minha).
 
+<br>
+
 Sob uma perspectiva moderna, esse processo de planejamento pode ser visualizado como um conjunto de perguntas que orientam a estratégia de aquisição:
 
 Qual é o ambiente? O sistema é físico, virtual, em nuvem ou containerizado? De que forma ele está estruturado em um cenário híbrido?
@@ -187,5 +189,7 @@ Qual é o impacto operacional aceitável?
 Quais artefatos precisam ser coletados?
 
 A aquisição será realizada localmente, remotamente ou em larga escala?
+
+<br>
 
 A aquisição de memória é uma atividade orientada por decisões, por isso, o investigador deve compreender o ambiente, identificar as restrições existentes, selecionar os métodos mais adequados e preservar a integridade das evidências. Não existe um procedimento universal, mas sim um processo de adaptação fundamentado em princípios forenses e nas características específicas de cada investigação.
