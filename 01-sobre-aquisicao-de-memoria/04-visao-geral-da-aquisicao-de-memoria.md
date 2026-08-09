@@ -22,7 +22,9 @@ Da mesma forma, o NIST, agência norte-americana responsável pelo desenvolvimen
 
 > “As políticas, diretrizes e procedimentos da organização devem indicar quaisquer variações em relação ao procedimento padrão.” (NIST, Special Publication 800-86, seção 3 — Performing the Forensic Process, tradução minha).
 
+
 Para ilustrar a frequente necessidade de adaptação, Ligh et al., em seu livro “The Art of Memory Forensics”, publicado em 2014, apresentam em seu capítulo “Memory Acquisition Overview” uma árvore de decisão composta por perguntas simples, cujas respostas direcionam o investigador para possíveis caminhos que o procedimento de aquisição pode seguir, demonstrando que pequenas mudanças nas características do ambiente podem alterar significativamente a abordagem adotada durante a coleta.
+
 
 
 ```text
@@ -67,9 +69,11 @@ Memory
 │       │       │           │   └── No  → FireWire
 ```
 
+
 Cada escolha direciona o procedimento para um caminho específico de aquisição. 
 
 No caso de um sistema bare-metal, por exemplo, essa árvore simplificada poderia ser apresentada da seguinte forma, considerando apenas o estado do sistema e a disponibilidade de privilégios administrativos:
+
 
 
 ```text
@@ -94,6 +98,7 @@ Bare-metal
 ```
 
 Como mencionado, o contexto atual da aquisição de memória (2026) agrega diversas novas tecnologias que passaram a fazer parte do cotidiano de muitas organizações, ampliando tanto as possibilidades quanto a complexidade envolvida nesse processo. Adaptando os modelos apresentados anteriormente ao contexto moderno, o processo poderia ser representado de forma simplificada, conforme a figura abaixo.
+
 
 
 ```text
@@ -150,6 +155,7 @@ Identificar o ambiente operacional
 │
 └── Orquestrador
 ```
+
 
 O propósito principal deste capítulo é demonstrar que a aquisição é um processo orientado por decisões e, portanto, possui maior probabilidade de alcançar seu objetivo quando é devidamente planejado. As árvores de decisão apresentadas acima demonstram que cada resposta pode modificar, entre outros aspectos, quais evidências devem ser coletadas, a estratégia de coleta e quais ferramentas devem ser empregadas.
 
