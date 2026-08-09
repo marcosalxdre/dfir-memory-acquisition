@@ -188,7 +188,9 @@ Qual é o impacto operacional aceitável?
 
 Quais artefatos precisam ser coletados?
 
-A aquisição será realizada localmente, remotamente ou em larga escala?
+A aquisição será realizada local? remota?
+
+Qual é o estado atual do sistema? O sistema está ligado, desligado, suspenso ou em processo de inicialização/desligamento?
 
 <br>
 
