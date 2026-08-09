@@ -192,6 +192,8 @@ A aquisição será realizada local? remota?
 
 Qual é o estado atual do sistema? O sistema está ligado, desligado, suspenso ou em processo de inicialização/desligamento?
 
+Quais ferramentas estão disponíveis e são mais adequadas em relação ao ambiente?
+
 <br>
 
 A aquisição de memória é uma atividade orientada por decisões, por isso, o investigador deve compreender o ambiente, identificar as restrições existentes, selecionar os métodos mais adequados e preservar a integridade das evidências. Não existe um procedimento universal, mas sim um processo de adaptação fundamentado em princípios forenses e nas características específicas de cada investigação.
