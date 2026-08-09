@@ -98,6 +98,8 @@ Bare-metal
 │       │                └── PCIe (casos específicos)
 ```
 
+<br>
+
 Como mencionado, o contexto atual da aquisição de memória (2026) agrega diversas novas tecnologias que passaram a fazer parte do cotidiano de muitas organizações, ampliando tanto as possibilidades quanto a complexidade envolvida nesse processo. Adaptando os modelos apresentados anteriormente ao contexto moderno, o processo poderia ser representado de forma simplificada, conforme a figura abaixo.
 
 <br>
