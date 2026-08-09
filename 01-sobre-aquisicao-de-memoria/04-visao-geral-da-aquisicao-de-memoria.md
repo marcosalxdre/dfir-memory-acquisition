@@ -1,8 +1,8 @@
 # Aquisição de Memória
 
-A fase de aquisição da memória é uma das etapas mais importantes no processo de forense de memória, pois o sucesso de uma análise depende frequentemente de uma aquisição corretamente planejada e executada. Durante o processo de aquisição, o investigador tomará decisões importantes sobre quais dados serão coletados e qual será a melhor forma de realizar essa coleta.
+A fase de aquisição da memória é uma das etapas mais importantes no processo de forense de memória, pois o sucesso de uma análise depende frequentemente de uma aquisição corretamente planejada e executada. Durante o processo de aquisição o investigador tomará decisões importantes sobre quais devem ser coletados e qual será a melhor forma de realizar essa coleta.
 
-O objetivo principal dessa etapa é preservar, tanto quanto possível, o estado do ambiente digital, minimizando alterações nas fontes de dados, de forma que o investigador possa realizar inferências confiáveis por meio da análise posterior dos dados coletados. Esse é um princípio amplamente reconhecido na área forense. O Scientific Working Group on Digital Evidence (SWGDE) estabelece como princípio orientador da aquisição forense a minimização, na maior extensão possível, de qualquer alteração nos dados de origem, preservando sua integridade e utilidade para a investigação.
+O objetivo principal dessa etapa é preservar, tanto quanto possível, o estado do ambiente digital minimizando alterações nas fontes de dados, de forma que o investigador possa realizar inferências confiáveis por meio da análise posterior dos dados coletados. Esse é um princípio amplamente reconhecido na área forense. O Scientific Working Group on Digital Evidence (SWGDE) estabelece como princípio orientador da aquisição forense a minimização, na maior extensão possível, de qualquer alteração nos dados de origem, preservando sua integridade e utilidade para a investigação.
 
 > “O princípio orientador para aquisições forenses computacionais é minimizar, na maior extensão possível, alterações nos dados de origem.” (SWGDE – Best Practices for Computer Forensic Acquisitions, SWGDE 17-F-002-2.1, tradução minha)
 
@@ -23,6 +23,7 @@ Da mesma forma, o NIST, agência norte-americana responsável pelo desenvolvimen
 > “As políticas, diretrizes e procedimentos da organização devem indicar quaisquer variações em relação ao procedimento padrão.” (NIST, Special Publication 800-86, seção 3 — Performing the Forensic Process, tradução minha).
 
 Para ilustrar a frequente necessidade de adaptação, Ligh et al., em seu livro “The Art of Memory Forensics”, publicado em 2014, apresentam em seu capítulo “Memory Acquisition Overview” uma árvore de decisão composta por perguntas simples, cujas respostas direcionam o investigador para possíveis caminhos que o procedimento de aquisição pode seguir, demonstrando que pequenas mudanças nas características do ambiente podem alterar significativamente a abordagem adotada durante a coleta.
+
 
 ```text
 Memory
@@ -66,7 +67,10 @@ Memory
 │       │       │           │   └── No  → FireWire
 ```
 
-Cada ponto direciona para um caminho específico de aquisição. No caso de um sistema bare-metal, por exemplo, essa árvore simplificada poderia ser apresentada da seguinte forma, considerando apenas o estado do sistema e a disponibilidade de privilégios administrativos:
+Cada escolha direciona o procedimento para um caminho específico de aquisição. 
+
+No caso de um sistema bare-metal, por exemplo, essa árvore simplificada poderia ser apresentada da seguinte forma, considerando apenas o estado do sistema e a disponibilidade de privilégios administrativos:
+
 
 ```text
 Bare-metal
@@ -90,6 +94,7 @@ Bare-metal
 ```
 
 Como mencionado, o contexto atual da aquisição de memória (2026) agrega diversas novas tecnologias que passaram a fazer parte do cotidiano de muitas organizações, ampliando tanto as possibilidades quanto a complexidade envolvida nesse processo. Adaptando os modelos apresentados anteriormente ao contexto moderno, o processo poderia ser representado de forma simplificada, conforme a figura abaixo.
+
 
 ```text
 Aquisição de Memória (DFIR Moderno)
@@ -172,8 +177,6 @@ Qual é o impacto operacional aceitável?
 
 Quais artefatos precisam ser coletados?
 
-Existem mecanismos de segurança, como EDR, VBS ou Credential Guard, que podem influenciar a coleta?
-
 A aquisição será realizada localmente, remotamente ou em larga escala?
 
-A aquisição de memória é uma atividade orientada por decisões. O investigador deve compreender o ambiente, identificar as restrições existentes, selecionar os métodos mais adequados e preservar a integridade das evidências. Não existe um procedimento universal, mas sim um processo de adaptação fundamentado em princípios forenses e nas características específicas de cada investigação.
+A aquisição de memória é uma atividade orientada por decisões, por isso, o investigador deve compreender o ambiente, identificar as restrições existentes, selecionar os métodos mais adequados e preservar a integridade das evidências. Não existe um procedimento universal, mas sim um processo de adaptação fundamentado em princípios forenses e nas características específicas de cada investigação.
