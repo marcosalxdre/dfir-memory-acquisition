@@ -1,9 +1,7 @@
 ## Referências
 
 Estas são as principais fontes utilizadas como referência geral para a elaboração do material sobre planejamento, coleta de evidências e aquisição de memória. Todos os acessos às fontes foram realizados em 10/08/2026.
-
 <br>
-
 1. **Brezinski, D.; Killalea, T. — RFC 3227: Guidelines for Evidence Collection and Archiving (2002).**  
    https://www.rfc-editor.org/rfc/rfc3227.html
 
@@ -34,3 +32,11 @@ Estas são as principais fontes utilizadas como referência geral para a elabora
 
 10. **DFIR Assist — Forensic Acquisition Guide: 103 acquisition methods across 5 platforms.**  
     https://forge-work.com/dfir/acquisition
+<br>
+## Livros
+
+1. **Ligh, M. H.; Case, A.; Levy, J.; Walters, A. — The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory (2014).**  
+   Wiley.
+
+2. **Ostrovskaya, S.; Skulkin, O. — Practical Memory Forensics: Jumpstart Effective Forensic Analysis of Volatile Memory (2022).**  
+   Packt Publishing.
