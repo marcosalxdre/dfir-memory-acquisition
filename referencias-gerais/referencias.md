@@ -33,6 +33,7 @@ Estas são as principais fontes utilizadas como referência geral para a elabora
 10. **DFIR Assist — Forensic Acquisition Guide: 103 acquisition methods across 5 platforms.**  
     https://forge-work.com/dfir/acquisition
 <br>
+
 ## Livros
 
 1. **Ligh, M. H.; Case, A.; Levy, J.; Walters, A. — The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory (2014).**  
