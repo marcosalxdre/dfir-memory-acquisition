@@ -1,6 +1,6 @@
 ## Referências
 
-Estas são as principais fontes utilizadas como referência geral para a elaboração do material sobre planejamento, coleta de evidências e aquisição de memória. Todos os acessos às fontes foram realizados em 10/08/2026.
+Estas são as principais fontes utilizadas como referência geral para a elaboração do material sobre aquisição de memória e conceitos de planejamento e coleta de evidências especialmente relacionados. Todos os acessos às fontes foram realizados em 10/08/2026.
 <br>
 1. **Brezinski, D.; Killalea, T. — RFC 3227: Guidelines for Evidence Collection and Archiving (2002).**  
    https://www.rfc-editor.org/rfc/rfc3227.html
