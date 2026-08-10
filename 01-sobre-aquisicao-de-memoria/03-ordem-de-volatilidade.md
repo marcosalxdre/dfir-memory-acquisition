@@ -1,6 +1,6 @@
 # Ordem de volatilidade
 
-Como já abordado neste material, assumir uma visão mais completa do ocorrido em um ambiente por meio da aquisição de fontes de evidência além do disco pode ser extremamente vantajoso, já que a correlação de artefatos provenientes de diferentes fontes permite ao investigador inferir sobre os eventos ocorridos em determinado ambiente com maior confiabilidade do que seria possível analisando apenas o conteúdo do disco.
+Assumir uma visão mais completa do ocorrido em um ambiente por meio da aquisição de fontes de evidência além do disco pode ser extremamente vantajoso, já que a correlação de artefatos provenientes de diferentes fontes permite ao investigador inferir sobre os eventos ocorridos em determinado ambiente com maior confiabilidade do que seria possível analisando apenas o conteúdo do disco.
 
 A obtenção dessas fontes de dados adicionais implica em uma maior interação com o sistema investigado, o que inevitavelmente introduz mudanças em seu estado. Toda aquisição realizada em um sistema em execução acaba modificando, em alguma medida, o próprio ambiente analisado.
 
