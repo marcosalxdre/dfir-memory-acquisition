@@ -27,6 +27,8 @@ LINUX KERNEL ORGANIZATION. *Kdump: The Linux Kernel Crash Dumping Mechanism*. Li
 
 SWGDE. *Linux Tech Notes*. SWGDE Documents, 2026. Disponível em: https://www.swgde.org/documents/published-complete-listing/16-f-001-linux-tech-notes/. Acesso em: 13 ago. 2026.
 
+ASAD, Amean; MCCLURG, Patrick; WOODHEAD, Patrick. AMD SEV-SNP: A Confidential Computing Primer. arXiv, 2026. Disponível em: https://arxiv.org/abs/2608.04039. Acesso em: 14 ago. 2026.
+
 KASPERSKY. *How to get a memory dump of a Virtual Machine from its hypervisor*. Kaspersky Support Forum, 2026. Disponível em: https://forum.kaspersky.com/topic/how-to-get-a-memory-dump-of-a-virtual-machine-from-its-hypervisor-36407/. Acesso em: 13 ago. 2026.
 
 QAZEER. *Memory Forensics*. Qazeer Notes, 2026. Disponível em: https://notes.qazeer.io/dfir/common/memory_forensics. Acesso em: 13 ago. 2026.
