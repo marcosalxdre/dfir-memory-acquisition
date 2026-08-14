@@ -15,6 +15,8 @@ MICROSOFT. *Azure security incident response overview*. Microsoft Azure Docs Rep
 
 MICROSOFT. Advanced troubleshooting for Windows-based computer freeze issues. Microsoft Learn, 2026. Disponível em: https://learn.microsoft.com/troubleshoot/windows-client/performance/windows-based-computer-freeze-troubleshooting. Acesso em: 14 ago. 2026.
 
+MICROSOFT. Remove-VMSavedState. Microsoft Learn, 2026. Disponível em: https://learn.microsoft.com/powershell/module/hyper-v/remove-vmsavedstate?view=windowsserver2025-ps. Acesso em: 14 ago. 2026.
+
 AMAZON WEB SERVICES. *AWS Security Incident Response Guide*. AWS Whitepapers, 2026. Disponível em: https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.pdf. Acesso em: 13 ago. 2026.
 
 AMAZON WEB SERVICES. *TDR401: Instance memory acquisition techniques for effective incident response*. AWS re:Inforce, 2022. Disponível em: https://d1.awsstatic.com/events/aws-reinforce-2022/TDR401_Instance-memory-acquisition-techniques-for-effective-incident-response.pdf. Acesso em: 13 ago. 2026.
