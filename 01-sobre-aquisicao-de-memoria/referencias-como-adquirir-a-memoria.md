@@ -32,3 +32,5 @@ QAZEER. *Memory Forensics*. Qazeer Notes, 2026. Disponível em: https://notes.qa
 EVIANT. *Cloud Memory Forensics: Acquisition & Analysis in AWS*. Eviant Resources, 2026. Disponível em: https://www.eviant.com.au/resources/cloud-memory-forensics-acquisition-analysis-aws/. Acesso em: 13 ago. 2026.
 
 FORENSEBR. *Aquisição de evidências digitais*. Blog ForenseBR, 2026. Disponível em: https://forensebr.digital/blog/aquisicao-de-evidencias-digitais. Acesso em: 13 ago. 2026.
+
+LIBVIRT PROJECT. virsh: Management user interface. Libvirt Documentation, 2026. Disponível em: https://www.libvirt.org/manpages/virsh.html. Acesso em: 14 ago. 2026.
