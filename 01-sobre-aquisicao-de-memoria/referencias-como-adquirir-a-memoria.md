@@ -1,7 +1,7 @@
 ## Fontes utilizadas na elaboração do conteúdo sobre como adquirir memória ([05-como-adquirir-memoria](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/01-sobre-aquisicao-de-memoria/05-como-adquirir-memoria.md)).
 
 
-MICROSOFT. *Overview of memory dump file options for Windows*. Microsoft Learn, 2026. Disponível em: https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/memory-dump-file-options?utm_source=chatgpt.com. Acesso em: 13 ago. 2026.
+MICROSOFT. *Overview of memory dump file options for Windows*. Microsoft Learn, 2026. Disponível em: https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/memory-dump-file-options. Acesso em: 13 ago. 2026.
 
 MICROSOFT. *Generate a kernel or complete crash dump*. Microsoft Learn, 2026. Disponível em: https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/generate-a-kernel-or-complete-crash-dump. Acesso em: 13 ago. 2026.
 
