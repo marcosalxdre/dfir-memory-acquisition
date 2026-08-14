@@ -41,6 +41,7 @@
 
 - O provedor pode disponibilizar mecanismos de gerenciamento, interrupção, diagnóstico, snapshot de armazenamento e APIs que auxiliam a aquisição.
 - A disponibilidade de uma aquisição direta da RAM pelo provedor/hypervisor depende da plataforma e não deve ser presumida.
+- A execução de ferramentas de aquisição diretamente na própria instância é uma das abordagens mais comuns para aquisição de memória em ambientes de nuvem, além dos mecanismos de aquisição ou diagnóstico fornecidos pela própria plataforma. 
 - Pode envolver ferramentas executadas na própria instância, mecanismos de crash dump, interrupções de diagnóstico, snapshots de armazenamento (permitindo recuperar um Memory.dmp que já tenha sido produzido pelo sistema, por exemplo), recursos de hibernação e APIs ou serviços específicos da plataforma.
 - O método disponível depende da arquitetura e dos recursos oferecidos pelo provedor (AWS, Azure, GCP).
 
