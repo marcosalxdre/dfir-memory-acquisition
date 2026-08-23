@@ -1,4 +1,4 @@
-## Fontes utilizadas na elaboração do conteúdo sobre memória no disco ([referencias-memoria-no-disco](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/01-sobre-aquisicao-de-memoria/referencias-memoria-no-disco.md)).
+## Fontes utilizadas na elaboração do conteúdo sobre memória no disco ([memoria-no-disco](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/83813ddf68aefd779d204a099f291f5326d24f1e/01-sobre-aquisicao-de-memoria/memoria-no-disco.md)).
 
 # Referências hiberfil
 
