@@ -1,3 +1,5 @@
+## Fontes utilizadas na elaboração do conteúdo sobre memória no disco ([referencias-memoria-no-disco](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/01-sobre-aquisicao-de-memoria/referencias-memoria-no-disco.md)).
+
 # Referências hiberfil
 
 MICROSOFT. How to disable and re-enable hibernation. Microsoft Learn, 2026. Disponível em: https://learn.microsoft.com/en-us/troubleshoot/windows-client/setup-upgrade-and-drivers/disable-and-re-enable-hibernation. Acesso em: 22 ago. 2026.
