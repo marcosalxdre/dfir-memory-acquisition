@@ -99,3 +99,23 @@ Embora esses *dumps* tenham como finalidade principal o diagnóstico de falhas d
 
 Esses caminhos, assim como o tipo de *dump* configurado, podem ser alterados por meio das configurações do sistema. Essas configurações são armazenadas no Registro, principalmente na chave:
 `HKLM\SYSTEM\CurrentControlSet\Control\CrashControl`
+
+### Análise
+
+A análise dos crash dumps pode ser realizada com ferramentas como Volatility e WinDbg, permitindo examinar processos, threads, módulos e drivers carregados, estruturas do kernel, conexões de rede e outros dados preservados no dump. A profundidade da análise depende do tipo de dump, pois cada modalidade preserva diferentes partes do estado da memória.
+
+### Valor forense
+
+Dependendo do tipo de dump, podem ser recuperados:
+
+* **processos e threads**
+* **módulos e drivers carregados**
+* **estruturas do kernel**
+* **comandos e argumentos de processos**
+* **conexões de rede**
+* **dados presentes na memória de aplicações**
+* **artefatos de malware**
+* **outros fragmentos de dados residentes em memória**
+
+O ponto central é que um crash dump pode preservar evidências que estavam presentes na memória no momento em que foi gerado, tornando-o uma fonte potencialmente relevante quando uma aquisição convencional da RAM não está disponível ou quando se deseja correlacionar diferentes momentos da atividade do sistema.
+
