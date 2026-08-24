@@ -1,4 +1,4 @@
-## Porque adquirir a memória?
+## Porque adquirir memória?
 
 Por muitos anos, a computação forense concentrou-se principalmente na preservação do conteúdo persistente dos dispositivos de armazenamento. O procedimento de aquisição de evidências digitais normalmente aceito envolvia desligar o sistema e realizar uma cópia duplicada dos dados armazenados em disco para posterior análise. Esse procedimento baseava-se no entendimento de que o armazenamento persistente era uma fonte suficiente e também a mais confiável para a maioria das investigações. Além disso, naquele contexto, as técnicas de aquisição e análise de memória eram relativamente menos sofisticadas do que são atualmente.
 
