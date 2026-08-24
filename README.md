@@ -12,7 +12,7 @@ Conteúdo teórico reunido no repositório sobre os fundamentos e conceitos envo
 - [Por que adquirir a memória](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/de0d82822685c9484ce1d2422a3c4f08c23f4ae3/01-sobre-aquisicao-de-memoria/por-que-adquirir-a-memoria.md)
 - [Ordem de volatilidade](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/de0d82822685c9484ce1d2422a3c4f08c23f4ae3/01-sobre-aquisicao-de-memoria/ordem-de-volatilidade.md)
 - [Visão geral da aquisição de memória](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/de0d82822685c9484ce1d2422a3c4f08c23f4ae3/01-sobre-aquisicao-de-memoria/visao-geral-da-aquisicao-de-memoria.md)
-- [Como adquirir memória](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/de0d82822685c9484ce1d2422a3c4f08c23f4ae3/01-sobre-aquisicao-de-memoria/como-adquirir-memoria.md)
+- [Como adquirir memória](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/9f745fb881a287ff19d2d9704455c8c0220eacc8/01-sobre-aquisicao-de-memoria/como-adquirir-a-memoria.md)
 - [Memória no disco](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/de0d82822685c9484ce1d2422a3c4f08c23f4ae3/01-sobre-aquisicao-de-memoria/memoria-no-disco.md)
 
 ### Referências 
