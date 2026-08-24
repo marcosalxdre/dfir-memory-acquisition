@@ -6,7 +6,7 @@ O livro *The Art of Memory Forensics*, de Ligh et al., escrito em 2014, em seu c
 > 
 > Além disso, esses artefatos podem atribuir mais confiabilidade às inferências derivadas por meio de sua correlação com a imagem coletada, pois podem conter evidências registradas em períodos de tempo além do que foi possível capturar com o dump da RAM.
 
-Embora o livro tenha sido escrito há mais de dez anos — um período longo no que se refere à tecnologia —, a importância desses artefatos para a investigação forense continua relevante. É claro que o comportamento dos sistemas e a forma como esses artefatos são gerados e armazenados evoluíram ao longo do tempo. Por isso, este material busca apresentar uma visão geral e atualizada do tema, além de reunir fontes e referências para consulta e aprofundamento.
+Embora o livro tenha sido escrito há mais de dez anos, um período longo no que se refere à tecnologia, a importância desses artefatos para a investigação forense continua relevante. É claro que o comportamento dos sistemas e a forma como esses artefatos são gerados e armazenados evoluíram ao longo do tempo. Por isso, este material busca apresentar uma visão geral e atualizada do tema, além de reunir fontes e referências para consulta e aprofundamento.
 
 Esses artefatos incluem:
 
