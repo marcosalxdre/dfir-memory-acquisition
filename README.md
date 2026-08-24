@@ -15,8 +15,6 @@ Conteúdo teórico reunido no repositório sobre os fundamentos e conceitos envo
 - [Como adquirir memória](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/de0d82822685c9484ce1d2422a3c4f08c23f4ae3/01-sobre-aquisicao-de-memoria/como-adquirir-memoria.md)
 - [Memória no disco](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/de0d82822685c9484ce1d2422a3c4f08c23f4ae3/01-sobre-aquisicao-de-memoria/memoria-no-disco.md)
 
-<br>
-
 ### Referências 
 
 - [Referências gerais](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/f7476c87b27596af778e13b25f5f787fab8ebce2/referencias-gerais.md)
