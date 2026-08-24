@@ -1,4 +1,4 @@
-## Fontes utilizadas na elaboração do conteúdo sobre como adquirir memória ([https://github.com/marcosalxdre/dfir-memory-acquisition/blob/3a59ce719e7950ae5dde52880fe68e27d031bd98/sobre-aquisicao-de-memoria/como-adquirir-a-memoria.md)).
+## Fontes utilizadas na elaboração do conteúdo sobre como adquirir memória ([como-adiquirir-memoria](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/3a59ce719e7950ae5dde52880fe68e27d031bd98/sobre-aquisicao-de-memoria/como-adquirir-a-memoria.md)).
 
 ---
 
