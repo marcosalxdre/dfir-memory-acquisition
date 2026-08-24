@@ -9,7 +9,7 @@ O propósito deste repositório é documentar meu estudo prático e teórico a r
 Conteúdo teórico reunido no repositório sobre os fundamentos e conceitos envolvidos na aquisição forense de memória:
 
 - [O que é aquisição de memória](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/sobre-aquisicao-de-memoria/o-que-e-aquisicao-de-memoria.md)
-- [Por que adquirir memória](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/sobre-aquisicao-de-memoria/por-que-adquirir-a-memoria.md)
+- [Por que adquirir memória](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/sobre-aquisicao-de-memoria/por-que-adquirir-memoria.md)
 - [Ordem de volatilidade](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/sobre-aquisicao-de-memoria/ordem-de-volatilidade.md)
 - [Visão geral da aquisição de memória](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/sobre-aquisicao-de-memoria/visao-geral-da-aquisicao-de-memoria.md)
 - [Como adquirir memória](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/sobre-aquisicao-de-memoria/como-adquirir-memoria.md)
@@ -18,5 +18,6 @@ Conteúdo teórico reunido no repositório sobre os fundamentos e conceitos envo
 ### Referências 
 
 - [Referências gerais](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/referencias-gerais.md)
-- [Referências: como adquirir a memória](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/sobre-aquisicao-de-memoria/referencias-como-adquirir-a-memoria.md)
+- [Referências: como adquirir a memória](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/sobre-aquisicao-de-memoria/referencias-como-adquirir-memoria.md)
 - [Referências: memória no disco](https://github.com/marcosalxdre/dfir-memory-acquisition/blob/main/sobre-aquisicao-de-memoria/referencias-memoria-no-disco.md)
+
