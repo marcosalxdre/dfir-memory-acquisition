@@ -21,7 +21,7 @@
 
 **Exemplos:**
 
-- Windows: crash dumps, kernel dumps, complete memory dumps e hibernation files (hiberfil.sys).
+- Windows: kernel e complete crash dumps e hibernation files (hiberfil.sys).
 - Linux: kdump/vmcore e mecanismos de crash dump do kernel.
 - Outros sistemas operacionais podem disponibilizar mecanismos equivalentes.
 
